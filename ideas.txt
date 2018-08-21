@@ -1,0 +1,13 @@
+Things that I can write about!
+* nearlyfreespeech.net - How to host websites with it!
+* running
+* other interests
+
+Programming post about using C++ to solve technical questions:
+- Going over the STL, what type of data structure each represents
+- Show how to use the often nasty syntax for using each data structure
+	* for example, declaring an unordered_set that maps from an int to a vector - that's a mess!
+
+Programming post about data structures in general to be used:
+- ex., What is a hashmap and when is it useful
+- Probably more on why/when things are useful, rather than explaining what the data structure is
