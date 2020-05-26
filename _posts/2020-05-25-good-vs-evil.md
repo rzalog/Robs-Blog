@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Good vs. Evil"
-date: 2020-05-125
+date: 2020-05-25
 ---
 
 Good vs. evil is one of the most common tropes you’ll see in stories (it’s even got its own Wikipedia page!). There’s a good guy who has all the morals, an evil guy who has none of them, and the only outcome that seems to make sense is for the good guy to prevail. This is not usually regarded as a good characteristic of a story. Movie reviews will often make criticisms of how a villain was too one-dimensional. Every bad guy needs some kind of motivation. Otherwise, it's just not realistic.
